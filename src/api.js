@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const API='0af26e5ae7991b5e4d0b92f738ad4064'
+const API=''
 const BASE_URL='https://api.themoviedb.org/3'
 export const getTrendingMovies=async () => {
     try {
